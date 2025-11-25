@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\api\\controllers\\agencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|solutionrelative:api\\controllers\\agencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\repositories\\iamgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\iamgenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\dtos\\agencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\agencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\api\\extensions\\databaseinitializationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|solutionrelative:api\\extensions\\databaseinitializationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\entities\\lecteurcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\lecteurcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630DAD90-5957-41CB-9607-BB6A6CF50A6C}|Service\\Service.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\service\\services\\agenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630DAD90-5957-41CB-9607-BB6A6CF50A6C}|Service\\Service.csproj|solutionrelative:service\\services\\agenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630DAD90-5957-41CB-9607-BB6A6CF50A6C}|Service\\Service.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\service\\services\\composantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630DAD90-5957-41CB-9607-BB6A6CF50A6C}|Service\\Service.csproj|solutionrelative:service\\services\\composantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\dtos\\composantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\dtos\\composantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\entities\\composant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\composant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\api\\controllers\\caisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9EDBCE3-F6A7-4B11-9387-94F909F8EFDD}|API\\API.csproj|solutionrelative:api\\controllers\\caisescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630DAD90-5957-41CB-9607-BB6A6CF50A6C}|Service\\Service.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{630DAD90-5957-41CB-9607-BB6A6CF50A6C}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|c:\\users\\monta\\documents\\projet\\dab_backend\\dal\\entities\\iamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B809E6C2-B28F-4831-ACE6-31394D17D252}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\iamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:18:41.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\DTOs\\AgenceDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\AgenceDto.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\DTOs\\AgenceDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\AgenceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:18:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:40:57.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:26:49.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAMGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\IAMGenericRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IAMGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\IAMGenericRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IAMGenericRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:26:36.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgencesController.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Controllers\\AgencesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AgencesController.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Controllers\\AgencesController.cs",
+              "RelativeToolTip": "API\\Controllers\\AgencesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:22:17.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseInitializationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Extensions\\DatabaseInitializationExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\DatabaseInitializationExtensions.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Extensions\\DatabaseInitializationExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\DatabaseInitializationExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:17:24.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lecteurcode.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Entities\\Lecteurcode.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Lecteurcode.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Entities\\Lecteurcode.cs",
+              "RelativeToolTip": "DAL\\Entities\\Lecteurcode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:47:27.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwJ0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:26:50.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T22:46:29.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CaisesController.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Controllers\\CaisesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CaisesController.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Controllers\\CaisesController.cs",
+              "RelativeToolTip": "API\\Controllers\\CaisesController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:23:09.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:30:21.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T21:33:50.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AgenceService.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\Service\\Services\\AgenceService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\AgenceService.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\Service\\Services\\AgenceService.cs",
+              "RelativeToolTip": "Service\\Services\\AgenceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:22:09.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ComposantService.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\Service\\Services\\ComposantService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ComposantService.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\Service\\Services\\ComposantService.cs",
+              "RelativeToolTip": "Service\\Services\\ComposantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:25:27.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Composant.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Entities\\Composant.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Composant.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Entities\\Composant.cs",
+              "RelativeToolTip": "DAL\\Entities\\Composant.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:29:06.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ComposantDto.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\DTOs\\ComposantDto.cs",
+              "RelativeDocumentMoniker": "DAL\\DTOs\\ComposantDto.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\DTOs\\ComposantDto.cs",
+              "RelativeToolTip": "DAL\\DTOs\\ComposantDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:28:33.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T20:50:57.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T20:48:11.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T11:06:43.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAMDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Entities\\IAMDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\IAMDbContext.cs",
+              "ToolTip": "C:\\Users\\Monta\\Documents\\projet\\dab_backend\\DAL\\Entities\\IAMDbContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\IAMDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:41:14.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
